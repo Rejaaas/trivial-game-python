@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Quién es el rey del Pop?",
+        "opciones": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Prince"
+        ],
+        "respuesta_correcta": "Michael Jackson",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué película ganó el Oscar a Mejor Película en 2020 haciendo historia?",
+        "opciones": [
+            "Joker",
+            "Parasite",
+            "1917"
+        ],
+        "respuesta_correcta": "Parasite",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿En qué ciudad viven Los Simpson?",
+        "opciones": [
+            "Shelbyville",
+            "Springfield",
+            "Capital City"
+        ],
+        "respuesta_correcta": "Springfield",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién interpreta a Iron Man en el Universo Marvel?",
+        "opciones": [
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Chris Hemsworth"
+        ],
+        "respuesta_correcta": "Robert Downey Jr.",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cómo se llama el mago protagonista de J.K. Rowling?",
+        "opciones": [
+            "Harry Potter",
+            "Ron Weasley",
+            "Gandalf"
+        ],
+        "respuesta_correcta": "Harry Potter",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué banda británica cantaba 'Hey Jude'?",
+        "opciones": [
+            "The Rolling Stones",
+            "The Beatles",
+            "Queen"
+        ],
+        "respuesta_correcta": "The Beatles",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Quién es la reina del 'Tex-Mex'?",
+        "opciones": [
+            "Jennifer Lopez",
+            "Selena Quintanilla",
+            "Shakira"
+        ],
+        "respuesta_correcta": "Selena Quintanilla",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué personaje de Star Wars dice 'Yo soy tu padre'?",
+        "opciones": [
+            "Yoda",
+            "Darth Vader",
+            "Emperador Palpatine"
+        ],
+        "respuesta_correcta": "Darth Vader",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cómo se llama la cafetería en la serie 'Friends'?",
+        "opciones": [
+            "Central Perk",
+            "MacLaren's",
+            "Monk's"
+        ],
+        "respuesta_correcta": "Central Perk",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Qué cantante es conocida como 'Queen B'?",
+        "opciones": [
+            "Rihanna",
+            "Beyoncé",
+            "Madonna"
+        ],
+        "respuesta_correcta": "Beyoncé",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Quién dirigió la película 'Titanic'?",
+        "opciones": [
+            "Steven Spielberg",
+            "James Cameron",
+            "Quentin Tarantino"
+        ],
+        "respuesta_correcta": "James Cameron",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué actor protagonizó 'Misión Imposible'?",
+        "opciones": [
+            "Brad Pitt",
+            "Tom Cruise",
+            "Leonardo DiCaprio"
+        ],
+        "respuesta_correcta": "Tom Cruise",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cómo se llama el reino de la película 'Frozen'?",
+        "opciones": [
+            "Arendelle",
+            "Narnia",
+            "Genovia"
+        ],
+        "respuesta_correcta": "Arendelle",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué serie de HBO se basa en los libros de George R.R. Martin?",
+        "opciones": [
+            "The Witcher",
+            "Game of Thrones",
+            "Vikingos"
+        ],
+        "respuesta_correcta": "Game of Thrones",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Quién cantaba 'Bohemian Rhapsody'?",
+        "opciones": [
+            "Elton John",
+            "Freddie Mercury",
+            "David Bowie"
+        ],
+        "respuesta_correcta": "Freddie Mercury",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué superhéroe es un multimillonario vestido de murciélago?",
+        "opciones": [
+            "Superman",
+            "Batman",
+            "Spider-Man"
+        ],
+        "respuesta_correcta": "Batman",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Quién es la artista femenina con más premios Grammy de la historia (hasta 2023)?",
+        "opciones": [
+            "Adele",
+            "Beyoncé",
+            "Taylor Swift"
+        ],
+        "respuesta_correcta": "Beyoncé",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cómo se llama el ogro verde de DreamWorks?",
+        "opciones": [
+            "Fiona",
+            "Shrek",
+            "Burro"
+        ],
+        "respuesta_correcta": "Shrek",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué actor interpretó al Joker en 'El Caballero de la Noche'?",
+        "opciones": [
+            "Joaquin Phoenix",
+            "Heath Ledger",
+            "Jared Leto"
+        ],
+        "respuesta_correcta": "Heath Ledger",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿En qué año se estrenó el primer iPhone?",
+        "opciones": [
+            "2005",
+            "2007",
+            "2010"
+        ],
+        "respuesta_correcta": "2007",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Quién es el creador de Facebook?",
+        "opciones": [
+            "Elon Musk",
+            "Mark Zuckerberg",
+            "Bill Gates"
+        ],
+        "respuesta_correcta": "Mark Zuckerberg",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué película animada presenta a un pez payaso buscando a su hijo?",
+        "opciones": [
+            "Buscando a Nemo",
+            "El Espantatiburones",
+            "La Sirenita"
+        ],
+        "respuesta_correcta": "Buscando a Nemo",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Quién es el autor de la canción 'Thriller'?",
+        "opciones": [
+            "Prince",
+            "Michael Jackson",
+            "Stevie Wonder"
+        ],
+        "respuesta_correcta": "Michael Jackson",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué actriz interpretó a Hermione Granger?",
+        "opciones": [
+            "Emma Stone",
+            "Emma Watson",
+            "Emma Roberts"
+        ],
+        "respuesta_correcta": "Emma Watson",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cuál es la serie más vista de Netflix (basada en juegos infantiles)?",
+        "opciones": [
+            "Stranger Things",
+            "El Juego del Calamar",
+            "La Casa de Papel"
+        ],
+        "respuesta_correcta": "El Juego del Calamar",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Quién es la pareja de Barbie?",
+        "opciones": [
+            "Ken",
+            "Max",
+            "Alan"
+        ],
+        "respuesta_correcta": "Ken",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué banda de K-Pop es famosa mundialmente por 'Dynamite'?",
+        "opciones": [
+            "EXO",
+            "BTS",
+            "Blackpink"
+        ],
+        "respuesta_correcta": "BTS",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cómo se llama el perro de Mickey Mouse?",
+        "opciones": [
+            "Goofy",
+            "Pluto",
+            "Snoopy"
+        ],
+        "respuesta_correcta": "Pluto",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Quién escribió el musical 'Hamilton'?",
+        "opciones": [
+            "Andrew Lloyd Webber",
+            "Lin-Manuel Miranda",
+            "Stephen Sondheim"
+        ],
+        "respuesta_correcta": "Lin-Manuel Miranda",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Qué personaje de videojuego es un fontanero italiano?",
+        "opciones": [
+            "Sonic",
+            "Mario",
+            "Link"
+        ],
+        "respuesta_correcta": "Mario",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

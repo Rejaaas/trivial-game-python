@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuánto es 7 x 8?",
+        "opciones": [
+            "54",
+            "56",
+            "48"
+        ],
+        "respuesta_correcta": "56",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es el valor aproximado de Pi?",
+        "opciones": [
+            "3.14",
+            "2.14",
+            "3.41"
+        ],
+        "respuesta_correcta": "3.14",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cómo se llama un triángulo con tres lados iguales?",
+        "opciones": [
+            "Isósceles",
+            "Escaleno",
+            "Equilátero"
+        ],
+        "respuesta_correcta": "Equilátero",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es la raíz cuadrada de 144?",
+        "opciones": [
+            "10",
+            "12",
+            "14"
+        ],
+        "respuesta_correcta": "12",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué operación debes hacer primero: 2 + 3 x 4?",
+        "opciones": [
+            "La suma",
+            "La multiplicación",
+            "Da igual"
+        ],
+        "respuesta_correcta": "La multiplicación",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuántos grados tiene un ángulo recto?",
+        "opciones": [
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "respuesta_correcta": "90°",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el único número primo par?",
+        "opciones": [
+            "2",
+            "4",
+            "1"
+        ],
+        "respuesta_correcta": "2",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cómo se llama el resultado de una división?",
+        "opciones": [
+            "Producto",
+            "Cociente",
+            "Resto"
+        ],
+        "respuesta_correcta": "Cociente",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuántos lados tiene un hexágono?",
+        "opciones": [
+            "5",
+            "6",
+            "8"
+        ],
+        "respuesta_correcta": "6",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuánto es 2 elevado al cubo (2^3)?",
+        "opciones": [
+            "6",
+            "8",
+            "4"
+        ],
+        "respuesta_correcta": "8",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué número romano representa el 50?",
+        "opciones": [
+            "L",
+            "C",
+            "D"
+        ],
+        "respuesta_correcta": "L",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cómo se llama el lado más largo de un triángulo rectángulo?",
+        "opciones": [
+            "Cateto",
+            "Hipotenusa",
+            "Tangente"
+        ],
+        "respuesta_correcta": "Hipotenusa",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuánto suman los ángulos interiores de un triángulo?",
+        "opciones": [
+            "180°",
+            "360°",
+            "90°"
+        ],
+        "respuesta_correcta": "180°",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué es un número capicúa?",
+        "opciones": [
+            "Un número negativo",
+            "Un número que se lee igual al revés",
+            "Un número decimal"
+        ],
+        "respuesta_correcta": "Un número que se lee igual al revés",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es el 10% de 200?",
+        "opciones": [
+            "2",
+            "20",
+            "10"
+        ],
+        "respuesta_correcta": "20",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cómo se calcula el área de un cuadrado?",
+        "opciones": [
+            "Lado x Lado",
+            "Base x Altura / 2",
+            "Lado x 4"
+        ],
+        "respuesta_correcta": "Lado x Lado",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué número es neutro en la suma?",
+        "opciones": [
+            "1",
+            "0",
+            "-1"
+        ],
+        "respuesta_correcta": "0",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuántos minutos hay en un día?",
+        "opciones": [
+            "1440",
+            "1200",
+            "3600"
+        ],
+        "respuesta_correcta": "1440",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cómo se llama un polígono de 5 lados?",
+        "opciones": [
+            "Hexágono",
+            "Pentágono",
+            "Heptágono"
+        ],
+        "respuesta_correcta": "Pentágono",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es el siguiente número en la serie: 2, 4, 8, 16...?",
+        "opciones": [
+            "24",
+            "30",
+            "32"
+        ],
+        "respuesta_correcta": "32",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué es el perímetro de una figura?",
+        "opciones": [
+            "La suma de sus lados",
+            "El espacio interior",
+            "La diagonal"
+        ],
+        "respuesta_correcta": "La suma de sus lados",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuánto es 100 dividido entre 0?",
+        "opciones": [
+            "0",
+            "100",
+            "Indefinido"
+        ],
+        "respuesta_correcta": "Indefinido",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué figura geométrica no tiene vértices?",
+        "opciones": [
+            "Triángulo",
+            "Círculo",
+            "Cuadrado"
+        ],
+        "respuesta_correcta": "Círculo",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué fracción es equivalente a 0.5?",
+        "opciones": [
+            "1/4",
+            "1/2",
+            "3/4"
+        ],
+        "respuesta_correcta": "1/2",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Quién es conocido como el padre de la geometría?",
+        "opciones": [
+            "Pitágoras",
+            "Euclides",
+            "Newton"
+        ],
+        "respuesta_correcta": "Euclides",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuánto es la mitad de 2 más 2?",
+        "opciones": [
+            "3",
+            "2",
+            "4"
+        ],
+        "respuesta_correcta": "3",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuántos ceros tiene un millón?",
+        "opciones": [
+            "5",
+            "6",
+            "9"
+        ],
+        "respuesta_correcta": "6",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué número es mayor: -5 o -1?",
+        "opciones": [
+            "-5",
+            "-1",
+            "Son iguales"
+        ],
+        "respuesta_correcta": "-1",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuánto suman los ángulos internos de un cuadrado?",
+        "opciones": [
+            "180°",
+            "360°",
+            "270°"
+        ],
+        "respuesta_correcta": "360°",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Qué instrumento se usa para medir ángulos?",
+        "opciones": [
+            "Regla",
+            "Compás",
+            "Transportador"
+        ],
+        "respuesta_correcta": "Transportador",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

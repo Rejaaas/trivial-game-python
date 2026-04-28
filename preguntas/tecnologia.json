@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué significan las siglas 'WWW'?",
+        "opciones": [
+            "World Wide Web",
+            "World Web Wide",
+            "Web World Wide"
+        ],
+        "respuesta_correcta": "World Wide Web",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Quién fundó Microsoft?",
+        "opciones": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg"
+        ],
+        "respuesta_correcta": "Bill Gates",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué sistema operativo usa el iPhone?",
+        "opciones": [
+            "Android",
+            "iOS",
+            "Windows"
+        ],
+        "respuesta_correcta": "iOS",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Qué significa 'CPU'?",
+        "opciones": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Power Unit"
+        ],
+        "respuesta_correcta": "Central Processing Unit",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el buscador de internet más utilizado?",
+        "opciones": [
+            "Bing",
+            "Google",
+            "Yahoo"
+        ],
+        "respuesta_correcta": "Google",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué lenguaje de programación tiene un logo de serpiente?",
+        "opciones": [
+            "Java",
+            "Python",
+            "C++"
+        ],
+        "respuesta_correcta": "Python",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Qué compañía fabrica la consola PlayStation?",
+        "opciones": [
+            "Nintendo",
+            "Sony",
+            "Microsoft"
+        ],
+        "respuesta_correcta": "Sony",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué significa 'RAM'?",
+        "opciones": [
+            "Random Access Memory",
+            "Read Access Memory",
+            "Run All Memory"
+        ],
+        "respuesta_correcta": "Random Access Memory",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Quién es el fundador de Amazon?",
+        "opciones": [
+            "Elon Musk",
+            "Jeff Bezos",
+            "Tim Cook"
+        ],
+        "respuesta_correcta": "Jeff Bezos",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es la red social de videos cortos más popular actualmente?",
+        "opciones": [
+            "Vine",
+            "TikTok",
+            "Snapchat"
+        ],
+        "respuesta_correcta": "TikTok",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué es un 'browser'?",
+        "opciones": [
+            "Un virus",
+            "Un navegador web",
+            "Un tipo de teclado"
+        ],
+        "respuesta_correcta": "Un navegador web",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué significa 'Wi-Fi'?",
+        "opciones": [
+            "Wireless Fidelity",
+            "Wireless Fine",
+            "Wire Free"
+        ],
+        "respuesta_correcta": "Wireless Fidelity",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué compañía compró WhatsApp en 2014?",
+        "opciones": [
+            "Google",
+            "Facebook (Meta)",
+            "Apple"
+        ],
+        "respuesta_correcta": "Facebook (Meta)",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué es el 'Cloud Computing'?",
+        "opciones": [
+            "Computación en la nube",
+            "Computación bajo tierra",
+            "Computación local"
+        ],
+        "respuesta_correcta": "Computación en la nube",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es la moneda virtual más famosa?",
+        "opciones": [
+            "Ethereum",
+            "Bitcoin",
+            "Dogecoin"
+        ],
+        "respuesta_correcta": "Bitcoin",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Quién es el CEO de Tesla y SpaceX?",
+        "opciones": [
+            "Elon Musk",
+            "Richard Branson",
+            "Larry Page"
+        ],
+        "respuesta_correcta": "Elon Musk",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué significa 'HTML'?",
+        "opciones": [
+            "Hyper Text Markup Language",
+            "High Tech Main Language",
+            "Hyper Tool Multi Language"
+        ],
+        "respuesta_correcta": "Hyper Text Markup Language",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué dispositivo revolucionó la música portátil en 2001?",
+        "opciones": [
+            "Walkman",
+            "iPod",
+            "Zune"
+        ],
+        "respuesta_correcta": "iPod",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué sistema operativo tiene un pingüino como mascota?",
+        "opciones": [
+            "Linux",
+            "Mac OS",
+            "Windows"
+        ],
+        "respuesta_correcta": "Linux",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué significa 'USB'?",
+        "opciones": [
+            "Universal Serial Bus",
+            "United Serial Bus",
+            "Universal System Bus"
+        ],
+        "respuesta_correcta": "Universal Serial Bus",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué es un 'Pixel'?",
+        "opciones": [
+            "Un tipo de cable",
+            "La unidad básica de una imagen digital",
+            "Un virus informático"
+        ],
+        "respuesta_correcta": "La unidad básica de una imagen digital",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué tecla se usa para copiar texto?",
+        "opciones": [
+            "Ctrl + V",
+            "Ctrl + C",
+            "Ctrl + X"
+        ],
+        "respuesta_correcta": "Ctrl + C",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué es un 'algoritmo'?",
+        "opciones": [
+            "Una parte del hardware",
+            "Un conjunto de instrucciones para resolver un problema",
+            "Un error del sistema"
+        ],
+        "respuesta_correcta": "Un conjunto de instrucciones para resolver un problema",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué empresa desarrolló el sistema Android?",
+        "opciones": [
+            "Apple",
+            "Google",
+            "Samsung"
+        ],
+        "respuesta_correcta": "Google",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué significa 'IA'?",
+        "opciones": [
+            "Inteligencia Artificial",
+            "Internet Activo",
+            "Información Actual"
+        ],
+        "respuesta_correcta": "Inteligencia Artificial",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál fue la primera red social masiva?",
+        "opciones": [
+            "MySpace",
+            "Facebook",
+            "Instagram"
+        ],
+        "respuesta_correcta": "MySpace",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué hace un firewall?",
+        "opciones": [
+            "Enfría la computadora",
+            "Protege la red de accesos no autorizados",
+            "Acelera el internet"
+        ],
+        "respuesta_correcta": "Protege la red de accesos no autorizados",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿En qué año se fundó Google?",
+        "opciones": [
+            "1990",
+            "1998",
+            "2005"
+        ],
+        "respuesta_correcta": "1998",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué es el 'phishing'?",
+        "opciones": [
+            "Pescar en línea",
+            "Un tipo de estafa electrónica",
+            "Un software de diseño"
+        ],
+        "respuesta_correcta": "Un tipo de estafa electrónica",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la extensión de archivo para una imagen?",
+        "opciones": [
+            ".txt",
+            ".jpg",
+            ".exe"
+        ],
+        "respuesta_correcta": ".jpg",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

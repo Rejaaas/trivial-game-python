@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué país ha ganado más Copas del Mundo de fútbol masculino?",
+        "opciones": [
+            "Brasil",
+            "Alemania",
+            "Italia"
+        ],
+        "respuesta_correcta": "Brasil",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿En qué deporte se destaca Rafael Nadal?",
+        "opciones": [
+            "Fútbol",
+            "Tenis",
+            "Golf"
+        ],
+        "respuesta_correcta": "Tenis",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto en la cancha?",
+        "opciones": [
+            "6",
+            "5",
+            "7"
+        ],
+        "respuesta_correcta": "5",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién posee el récord mundial de los 100 metros lisos?",
+        "opciones": [
+            "Carl Lewis",
+            "Usain Bolt",
+            "Tyson Gay"
+        ],
+        "respuesta_correcta": "Usain Bolt",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué evento deportivo se celebra cada cuatro años e incluye múltiples disciplinas?",
+        "opciones": [
+            "Super Bowl",
+            "Juegos Olímpicos",
+            "Copa Davis"
+        ],
+        "respuesta_correcta": "Juegos Olímpicos",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuál es la distancia de una maratón oficial?",
+        "opciones": [
+            "42.195 km",
+            "50 km",
+            "21 km"
+        ],
+        "respuesta_correcta": "42.195 km",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿En qué deporte se utiliza el término 'Home Run'?",
+        "opciones": [
+            "Críquet",
+            "Béisbol",
+            "Golf"
+        ],
+        "respuesta_correcta": "Béisbol",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué piloto de Fórmula 1 tiene el récord compartido de 7 títulos mundiales junto a Lewis Hamilton?",
+        "opciones": [
+            "Ayrton Senna",
+            "Michael Schumacher",
+            "Fernando Alonso"
+        ],
+        "respuesta_correcta": "Michael Schumacher",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿De qué color es la camiseta del líder en el Tour de Francia?",
+        "opciones": [
+            "Amarilla",
+            "Roja",
+            "Verde"
+        ],
+        "respuesta_correcta": "Amarilla",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Quién es conocido como 'The Black Mamba'?",
+        "opciones": [
+            "LeBron James",
+            "Michael Jordan",
+            "Kobe Bryant"
+        ],
+        "respuesta_correcta": "Kobe Bryant",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿En qué país se originó el judo?",
+        "opciones": [
+            "China",
+            "Corea",
+            "Japón"
+        ],
+        "respuesta_correcta": "Japón",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuánto dura un partido de fútbol estándar sin tiempo extra?",
+        "opciones": [
+            "90 minutos",
+            "60 minutos",
+            "100 minutos"
+        ],
+        "respuesta_correcta": "90 minutos",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué selección de rugby realiza el baile 'Haka' antes de sus partidos?",
+        "opciones": [
+            "Australia",
+            "Nueva Zelanda",
+            "Sudáfrica"
+        ],
+        "respuesta_correcta": "Nueva Zelanda",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Quién es considerado el mejor nadador de todos los tiempos por su cantidad de medallas olímpicas?",
+        "opciones": [
+            "Mark Spitz",
+            "Michael Phelps",
+            "Ian Thorpe"
+        ],
+        "respuesta_correcta": "Michael Phelps",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿En qué ciudad se celebraron los Juegos Olímpicos de 1992?",
+        "opciones": [
+            "Barcelona",
+            "Atlanta",
+            "Seúl"
+        ],
+        "respuesta_correcta": "Barcelona",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cómo se llama el estadio del FC Barcelona?",
+        "opciones": [
+            "Santiago Bernabéu",
+            "Camp Nou",
+            "Old Trafford"
+        ],
+        "respuesta_correcta": "Camp Nou",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué pieza del ajedrez puede moverse en cualquier dirección y distancia?",
+        "opciones": [
+            "El Rey",
+            "La Reina (Dama)",
+            "La Torre"
+        ],
+        "respuesta_correcta": "La Reina (Dama)",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué deporte practica Tiger Woods?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Póker"
+        ],
+        "respuesta_correcta": "Golf",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Cuántos anillos olímpicos hay en la bandera oficial?",
+        "opciones": [
+            "4",
+            "5",
+            "6"
+        ],
+        "respuesta_correcta": "5",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué boxeador se autodenominó 'The Greatest' (El Más Grande)?",
+        "opciones": [
+            "Mike Tyson",
+            "Muhammad Ali",
+            "Floyd Mayweather"
+        ],
+        "respuesta_correcta": "Muhammad Ali",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿En qué superficie se juega el torneo de Wimbledon?",
+        "opciones": [
+            "Arcilla",
+            "Hierba",
+            "Pista dura"
+        ],
+        "respuesta_correcta": "Hierba",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuántos jugadores conforman un equipo de voleibol en la pista?",
+        "opciones": [
+            "5",
+            "6",
+            "7"
+        ],
+        "respuesta_correcta": "6",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué país organizó el primer Mundial de Fútbol en 1930?",
+        "opciones": [
+            "Brasil",
+            "Uruguay",
+            "Francia"
+        ],
+        "respuesta_correcta": "Uruguay",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuál es el puntaje máximo perfecto en un juego de bolos (bowling)?",
+        "opciones": [
+            "200",
+            "300",
+            "500"
+        ],
+        "respuesta_correcta": "300",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cómo se llama el objeto que se golpea en el hockey sobre hielo?",
+        "opciones": [
+            "Pelota",
+            "Disco (Puck)",
+            "Bocha"
+        ],
+        "respuesta_correcta": "Disco (Puck)",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Qué tenista tiene el récord de más títulos de Grand Slam masculino (hasta 2024)?",
+        "opciones": [
+            "Roger Federer",
+            "Novak Djokovic",
+            "Pete Sampras"
+        ],
+        "respuesta_correcta": "Novak Djokovic",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué arte marcial utiliza cinturones de colores para indicar el nivel?",
+        "opciones": [
+            "Boxeo",
+            "Karate",
+            "Esgrima"
+        ],
+        "respuesta_correcta": "Karate",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿En qué deporte se disputa la Copa Davis?",
+        "opciones": [
+            "Fútbol",
+            "Tenis",
+            "Golf"
+        ],
+        "respuesta_correcta": "Tenis",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Quién anotó el famoso gol de 'La Mano de Dios'?",
+        "opciones": [
+            "Pelé",
+            "Diego Maradona",
+            "Lionel Messi"
+        ],
+        "respuesta_correcta": "Diego Maradona",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuántos periodos (cuartos) tiene un partido de la NBA?",
+        "opciones": [
+            "2",
+            "4",
+            "3"
+        ],
+        "respuesta_correcta": "4",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

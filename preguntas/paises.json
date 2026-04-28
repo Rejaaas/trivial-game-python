@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+            "Nilo",
+            "Amazonas",
+            "Yangtsé"
+        ],
+        "respuesta_correcta": "Amazonas",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": [
+            "Sídney",
+            "Melbourne",
+            "Canberra"
+        ],
+        "respuesta_correcta": "Canberra",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿En qué continente se encuentra Marruecos?",
+        "opciones": [
+            "Asia",
+            "Europa",
+            "África"
+        ],
+        "respuesta_correcta": "África",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+        "opciones": [
+            "China",
+            "Estados Unidos",
+            "Rusia"
+        ],
+        "respuesta_correcta": "Rusia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué país tiene forma de bota?",
+        "opciones": [
+            "España",
+            "Italia",
+            "Grecia"
+        ],
+        "respuesta_correcta": "Italia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Dónde se encuentra la Torre Eiffel?",
+        "opciones": [
+            "Londres",
+            "Berlín",
+            "París"
+        ],
+        "respuesta_correcta": "París",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": [
+            "Atlántico",
+            "Índico",
+            "Pacífico"
+        ],
+        "respuesta_correcta": "Pacífico",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué cordillera separa Europa de Asia?",
+        "opciones": [
+            "Los Alpes",
+            "Los Andes",
+            "Los Urales"
+        ],
+        "respuesta_correcta": "Los Urales",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": [
+            "K2",
+            "Everest",
+            "Kilimanjaro"
+        ],
+        "respuesta_correcta": "Everest",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa"
+        ],
+        "respuesta_correcta": "Ottawa",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿En qué país se encuentra el Taj Mahal?",
+        "opciones": [
+            "Tailandia",
+            "India",
+            "Irán"
+        ],
+        "respuesta_correcta": "India",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuál es el desierto cálido más grande del mundo?",
+        "opciones": [
+            "Gobi",
+            "Kalahari",
+            "Sahara"
+        ],
+        "respuesta_correcta": "Sahara",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué país tiene más habitantes en el mundo (2023)?",
+        "opciones": [
+            "China",
+            "India",
+            "Estados Unidos"
+        ],
+        "respuesta_correcta": "India",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es la capital de Alemania?",
+        "opciones": [
+            "Múnich",
+            "Berlín",
+            "Hamburgo"
+        ],
+        "respuesta_correcta": "Berlín",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿En qué país están las ruinas de Machu Picchu?",
+        "opciones": [
+            "Bolivia",
+            "México",
+            "Perú"
+        ],
+        "respuesta_correcta": "Perú",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué estrecho separa España de África?",
+        "opciones": [
+            "Estrecho de Gibraltar",
+            "Estrecho de Bósforo",
+            "Canal de Suez"
+        ],
+        "respuesta_correcta": "Estrecho de Gibraltar",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál es el lago más grande de América del Sur?",
+        "opciones": [
+            "Lago Titicaca",
+            "Lago Maracaibo",
+            "Lago Nahuel Huapi"
+        ],
+        "respuesta_correcta": "Lago Titicaca",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Kioto",
+            "Osaka",
+            "Tokio"
+        ],
+        "respuesta_correcta": "Tokio",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿En qué país se encuentra la región de la Patagonia?",
+        "opciones": [
+            "Brasil y Uruguay",
+            "Chile y Argentina",
+            "Perú y Ecuador"
+        ],
+        "respuesta_correcta": "Chile y Argentina",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es el estado más grande de los Estados Unidos?",
+        "opciones": [
+            "Texas",
+            "California",
+            "Alaska"
+        ],
+        "respuesta_correcta": "Alaska",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué país es conocido como la tierra de los mil lagos?",
+        "opciones": [
+            "Noruega",
+            "Finlandia",
+            "Suecia"
+        ],
+        "respuesta_correcta": "Finlandia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuál es el río que atraviesa Londres?",
+        "opciones": [
+            "Sena",
+            "Danubio",
+            "Támesis"
+        ],
+        "respuesta_correcta": "Támesis",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Cuál es la isla más grande del mundo?",
+        "opciones": [
+            "Australia",
+            "Groenlandia",
+            "Madagascar"
+        ],
+        "respuesta_correcta": "Groenlandia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuál es la capital de Brasil?",
+        "opciones": [
+            "Río de Janeiro",
+            "São Paulo",
+            "Brasilia"
+        ],
+        "respuesta_correcta": "Brasilia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿En qué país se encuentra el Coliseo?",
+        "opciones": [
+            "Grecia",
+            "Italia",
+            "Francia"
+        ],
+        "respuesta_correcta": "Italia",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuántos estados tiene México?",
+        "opciones": [
+            "31",
+            "32",
+            "50"
+        ],
+        "respuesta_correcta": "32",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué país limita al norte con los Estados Unidos?",
+        "opciones": [
+            "México",
+            "Canadá",
+            "Rusia"
+        ],
+        "respuesta_correcta": "Canadá",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "opciones": [
+            "Mónaco",
+            "Ciudad del Vaticano",
+            "San Marino"
+        ],
+        "respuesta_correcta": "Ciudad del Vaticano",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué canal conecta el océano Atlántico con el Pacífico?",
+        "opciones": [
+            "Canal de Panamá",
+            "Canal de Suez",
+            "Canal de Corinto"
+        ],
+        "respuesta_correcta": "Canal de Panamá",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la moneda oficial del Reino Unido?",
+        "opciones": [
+            "Euro",
+            "Dólar",
+            "Libra esterlina"
+        ],
+        "respuesta_correcta": "Libra esterlina",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

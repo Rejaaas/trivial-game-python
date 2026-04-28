@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "opciones": [
+            "Miguel de Cervantes",
+            "Lope de Vega",
+            "Francisco de Quevedo"
+        ],
+        "respuesta_correcta": "Miguel de Cervantes",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Quién es el autor de 'Romeo y Julieta'?",
+        "opciones": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Oscar Wilde"
+        ],
+        "respuesta_correcta": "William Shakespeare",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué escritor colombiano ganó el Premio Nobel por 'Cien años de soledad'?",
+        "opciones": [
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Julio Cortázar"
+        ],
+        "respuesta_correcta": "Gabriel García Márquez",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién escribió la 'Odisea'?",
+        "opciones": [
+            "Homero",
+            "Virgilio",
+            "Sófocles"
+        ],
+        "respuesta_correcta": "Homero",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Quién es la autora de la saga 'Harry Potter'?",
+        "opciones": [
+            "J.K. Rowling",
+            "Agatha Christie",
+            "Virginia Woolf"
+        ],
+        "respuesta_correcta": "J.K. Rowling",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué obra comienza con la frase 'En un lugar de la Mancha...'?",
+        "opciones": [
+            "El Lazarillo de Tormes",
+            "La Celestina",
+            "Don Quijote de la Mancha"
+        ],
+        "respuesta_correcta": "Don Quijote de la Mancha",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Quién escribió 'El Principito'?",
+        "opciones": [
+            "Antoine de Saint-Exupéry",
+            "Julio Verne",
+            "Victor Hugo"
+        ],
+        "respuesta_correcta": "Antoine de Saint-Exupéry",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Quién es el autor de '1984'?",
+        "opciones": [
+            "Aldous Huxley",
+            "George Orwell",
+            "Ray Bradbury"
+        ],
+        "respuesta_correcta": "George Orwell",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Quién escribió 'Orgullo y Prejuicio'?",
+        "opciones": [
+            "Emily Brontë",
+            "Jane Austen",
+            "Louisa May Alcott"
+        ],
+        "respuesta_correcta": "Jane Austen",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Qué autor escribió 'La Metamorfosis'?",
+        "opciones": [
+            "Franz Kafka",
+            "Friedrich Nietzsche",
+            "Hermann Hesse"
+        ],
+        "respuesta_correcta": "Franz Kafka",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Quién creó al detective Sherlock Holmes?",
+        "opciones": [
+            "Arthur Conan Doyle",
+            "Edgar Allan Poe",
+            "H.P. Lovecraft"
+        ],
+        "respuesta_correcta": "Arthur Conan Doyle",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Quién escribió 'Los Miserables'?",
+        "opciones": [
+            "Gustave Flaubert",
+            "Victor Hugo",
+            "Émile Zola"
+        ],
+        "respuesta_correcta": "Victor Hugo",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Quién es el autor de la 'Divina Comedia'?",
+        "opciones": [
+            "Petrarca",
+            "Boccaccio",
+            "Dante Alighieri"
+        ],
+        "respuesta_correcta": "Dante Alighieri",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué autora escribió 'Frankenstein'?",
+        "opciones": [
+            "Mary Shelley",
+            "Bram Stoker",
+            "Anne Rice"
+        ],
+        "respuesta_correcta": "Mary Shelley",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Quién escribió la novela 'Moby Dick'?",
+        "opciones": [
+            "Herman Melville",
+            "Mark Twain",
+            "Ernest Hemingway"
+        ],
+        "respuesta_correcta": "Herman Melville",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál era el verdadero nombre de Mark Twain?",
+        "opciones": [
+            "Samuel Langhorne Clemens",
+            "Eric Arthur Blair",
+            "Charles Lutwidge Dodgson"
+        ],
+        "respuesta_correcta": "Samuel Langhorne Clemens",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Quién es el autor de 'El Gran Gatsby'?",
+        "opciones": [
+            "F. Scott Fitzgerald",
+            "John Steinbeck",
+            "William Faulkner"
+        ],
+        "respuesta_correcta": "F. Scott Fitzgerald",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿En qué obra de Shakespeare aparece el príncipe Hamlet?",
+        "opciones": [
+            "Macbeth",
+            "Hamlet",
+            "Otelo"
+        ],
+        "respuesta_correcta": "Hamlet",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Quién escribió 'Crimen y Castigo'?",
+        "opciones": [
+            "León Tolstói",
+            "Fiódor Dostoyevski",
+            "Antón Chéjov"
+        ],
+        "respuesta_correcta": "Fiódor Dostoyevski",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿De qué país era el poeta Pablo Neruda?",
+        "opciones": [
+            "Argentina",
+            "España",
+            "Chile"
+        ],
+        "respuesta_correcta": "Chile",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Quién escribió 'El Señor de los Anillos'?",
+        "opciones": [
+            "C.S. Lewis",
+            "J.R.R. Tolkien",
+            "George R.R. Martin"
+        ],
+        "respuesta_correcta": "J.R.R. Tolkien",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Quién es el autor de la novela mexicana 'Pedro Páramo'?",
+        "opciones": [
+            "Juan Rulfo",
+            "Octavio Paz",
+            "Carlos Fuentes"
+        ],
+        "respuesta_correcta": "Juan Rulfo",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Quién escribió 'Alicia en el país de las maravillas'?",
+        "opciones": [
+            "Lewis Carroll",
+            "C.S. Lewis",
+            "Roald Dahl"
+        ],
+        "respuesta_correcta": "Lewis Carroll",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué poeta estadounidense escribió 'El Cuervo'?",
+        "opciones": [
+            "Walt Whitman",
+            "Robert Frost",
+            "Edgar Allan Poe"
+        ],
+        "respuesta_correcta": "Edgar Allan Poe",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Quién es el autor de 'Guerra y Paz'?",
+        "opciones": [
+            "León Tolstói",
+            "Fiódor Dostoyevski",
+            "Vladimir Nabokov"
+        ],
+        "respuesta_correcta": "León Tolstói",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Quién escribió la novela modernista 'Ulises'?",
+        "opciones": [
+            "James Joyce",
+            "Virginia Woolf",
+            "Samuel Beckett"
+        ],
+        "respuesta_correcta": "James Joyce",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Quién escribió 'Fahrenheit 451'?",
+        "opciones": [
+            "Isaac Asimov",
+            "Ray Bradbury",
+            "H.G. Wells"
+        ],
+        "respuesta_correcta": "Ray Bradbury",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Quién es el creador del personaje Drácula?",
+        "opciones": [
+            "Bram Stoker",
+            "Mary Shelley",
+            "Stephen King"
+        ],
+        "respuesta_correcta": "Bram Stoker",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Quién ganó el Premio Nobel de Literatura en 2016 (famoso también por su música)?",
+        "opciones": [
+            "Bob Dylan",
+            "Leonard Cohen",
+            "Patti Smith"
+        ],
+        "respuesta_correcta": "Bob Dylan",
+        "acertada": 0,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Quién escribió 'El viejo y el mar'?",
+        "opciones": [
+            "Ernest Hemingway",
+            "William Faulkner",
+            "John Steinbeck"
+        ],
+        "respuesta_correcta": "Ernest Hemingway",
+        "acertada": 0,
+        "fallada": 0
+    }
+]

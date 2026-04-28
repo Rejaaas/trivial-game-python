@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué tiene piernas pero no puede caminar?",
+        "opciones": [
+            "Una mesa",
+            "Un perro",
+            "Una serpiente"
+        ],
+        "respuesta_correcta": "Una mesa",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué sube pero nunca baja?",
+        "opciones": [
+            "La lluvia",
+            "La edad",
+            "El precio"
+        ],
+        "respuesta_correcta": "La edad",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué es lo que rompes cuando lo nombras?",
+        "opciones": [
+            "El silencio",
+            "Un vaso",
+            "Una promesa"
+        ],
+        "respuesta_correcta": "El silencio",
+        "acertada": 0,
+        "fallada": 2
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Qué mes tiene 28 días?",
+        "opciones": [
+            "Solo febrero",
+            "Enero y diciembre",
+            "Todos"
+        ],
+        "respuesta_correcta": "Todos",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué se moja mientras seca?",
+        "opciones": [
+            "El sol",
+            "Una toalla",
+            "El viento"
+        ],
+        "respuesta_correcta": "Una toalla",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué tiene ciudades, pero no casas; montañas, pero no árboles; y agua, pero no peces?",
+        "opciones": [
+            "Un mapa",
+            "Un sueño",
+            "Una película"
+        ],
+        "respuesta_correcta": "Un mapa",
+        "acertada": 0,
+        "fallada": 2
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Qué es tuyo, pero los demás lo usan más que tú?",
+        "opciones": [
+            "Tu dinero",
+            "Tu nombre",
+            "Tu coche"
+        ],
+        "respuesta_correcta": "Tu nombre",
+        "acertada": 0,
+        "fallada": 2
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué tiene cuello pero no cabeza?",
+        "opciones": [
+            "Una camisa",
+            "Una botella",
+            "Una jirafa"
+        ],
+        "respuesta_correcta": "Una camisa",
+        "acertada": 2,
+        "fallada": 0
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué pesa más: un kilo de hierro o un kilo de plumas?",
+        "opciones": [
+            "El hierro",
+            "Las plumas",
+            "Pesan lo mismo"
+        ],
+        "respuesta_correcta": "Pesan lo mismo",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 10,
+        "pregunta": "¿El padre de Ana tiene 4 hijas: Nana, Nene, Nini. ¿Cómo se llama la cuarta?",
+        "opciones": [
+            "Nunu",
+            "Ana",
+            "Nono"
+        ],
+        "respuesta_correcta": "Ana",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué baja lleno y sube vacío?",
+        "opciones": [
+            "Un cubo de pozo",
+            "Un ascensor",
+            "La lluvia"
+        ],
+        "respuesta_correcta": "Un cubo de pozo",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué tiene agujeros pero retiene el agua?",
+        "opciones": [
+            "Una red",
+            "Una esponja",
+            "Un colador"
+        ],
+        "respuesta_correcta": "Una esponja",
+        "acertada": 0,
+        "fallada": 2
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué hay al final de todo?",
+        "opciones": [
+            "La muerte",
+            "La letra O",
+            "El principio"
+        ],
+        "respuesta_correcta": "La letra O",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué corre sin tener pies?",
+        "opciones": [
+            "El tiempo",
+            "El coche",
+            "El perro"
+        ],
+        "respuesta_correcta": "El tiempo",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué tiene un solo ojo pero no puede ver?",
+        "opciones": [
+            "Un cíclope",
+            "Una aguja",
+            "Un huracán"
+        ],
+        "respuesta_correcta": "Una aguja",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Si me nombras, desaparezco. ¿Qué soy?",
+        "opciones": [
+            "El silencio",
+            "La oscuridad",
+            "El viento"
+        ],
+        "respuesta_correcta": "El silencio",
+        "acertada": 2,
+        "fallada": 0
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué se hace más grande cuanto más le quitas?",
+        "opciones": [
+            "Un agujero",
+            "Una deuda",
+            "Un problema"
+        ],
+        "respuesta_correcta": "Un agujero",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué tiene dientes pero no muerde?",
+        "opciones": [
+            "Un peine",
+            "Un perro viejo",
+            "Un cuchillo"
+        ],
+        "respuesta_correcta": "Un peine",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué entra duro y grande y sale suave y pequeño?",
+        "opciones": [
+            "Un chicle",
+            "Un hielo",
+            "Una vela"
+        ],
+        "respuesta_correcta": "Un chicle",
+        "acertada": 2,
+        "fallada": 0
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué es lo que nadie quiere tener, pero cuando lo tiene no quiere perder?",
+        "opciones": [
+            "Un juicio",
+            "Un calvo",
+            "La vida"
+        ],
+        "respuesta_correcta": "Un juicio",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué puedes sostener en tu mano derecha pero nunca en la izquierda?",
+        "opciones": [
+            "Tu codo izquierdo",
+            "Tu pie derecho",
+            "Tu oreja derecha"
+        ],
+        "respuesta_correcta": "Tu codo izquierdo",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué tiene manos pero no puede aplaudir?",
+        "opciones": [
+            "Un reloj",
+            "Un mimo",
+            "Una estatua"
+        ],
+        "respuesta_correcta": "Un reloj",
+        "acertada": 2,
+        "fallada": 0
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué animal anda a cuatro patas por la mañana, a dos al mediodía y a tres por la noche?",
+        "opciones": [
+            "El perro",
+            "El hombre",
+            "El gato"
+        ],
+        "respuesta_correcta": "El hombre",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué viaja por el mundo quedándose en una esquina?",
+        "opciones": [
+            "Un sello",
+            "Un avión",
+            "El sol"
+        ],
+        "respuesta_correcta": "Un sello",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué tiene llaves pero no abre puertas?",
+        "opciones": [
+            "Un piano",
+            "Un candado",
+            "Un mapa"
+        ],
+        "respuesta_correcta": "Un piano",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Qué invento te permite mirar a través de las paredes?",
+        "opciones": [
+            "Rayos X",
+            "Una ventana",
+            "Internet"
+        ],
+        "respuesta_correcta": "Una ventana",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Si estás en una carrera y adelantas al segundo, en qué posición quedas?",
+        "opciones": [
+            "Primero",
+            "Segundo",
+            "Tercero"
+        ],
+        "respuesta_correcta": "Segundo",
+        "acertada": 0,
+        "fallada": 1
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué palabra se escribe incorrectamente en todos los diccionarios?",
+        "opciones": [
+            "Incorrectamente",
+            "Diccionario",
+            "Palabra"
+        ],
+        "respuesta_correcta": "Incorrectamente",
+        "acertada": 1,
+        "fallada": 1
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué tiene cama pero no duerme, y boca pero no habla?",
+        "opciones": [
+            "Un río",
+            "Un mudo",
+            "Un zapato"
+        ],
+        "respuesta_correcta": "Un río",
+        "acertada": 1,
+        "fallada": 0
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuánta tierra hay en un hoyo de 1 metro de profundidad y 1 metro de ancho?",
+        "opciones": [
+            "1 metro cúbico",
+            "Ninguna",
+            "10 kilos"
+        ],
+        "respuesta_correcta": "Ninguna",
+        "acertada": 1,
+        "fallada": 1
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es el símbolo químico del agua?",
+        "opciones": [
+            "HO",
+            "H2O",
+            "O2H"
+        ],
+        "respuesta_correcta": "H2O"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "opciones": [
+            "Venus",
+            "Mercurio",
+            "Marte"
+        ],
+        "respuesta_correcta": "Mercurio"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué gas necesitan los humanos para respirar?",
+        "opciones": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Dióxido de carbono"
+        ],
+        "respuesta_correcta": "Oxígeno"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "opciones": [
+            "Hígado",
+            "Piel",
+            "Pulmones"
+        ],
+        "respuesta_correcta": "Piel"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué partícula tiene carga negativa en un átomo?",
+        "opciones": [
+            "Protón",
+            "Neutrón",
+            "Electrón"
+        ],
+        "respuesta_correcta": "Electrón"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuál es la velocidad de la luz?",
+        "opciones": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "1,000 km/s"
+        ],
+        "respuesta_correcta": "300,000 km/s"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cómo se llaman los animales que comen carne?",
+        "opciones": [
+            "Herbívoros",
+            "Carnívoros",
+            "Omnívoros"
+        ],
+        "respuesta_correcta": "Carnívoros"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué planeta es conocido como el Planeta Rojo?",
+        "opciones": [
+            "Júpiter",
+            "Marte",
+            "Saturno"
+        ],
+        "respuesta_correcta": "Marte"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué proceso usan las plantas para convertir luz en energía?",
+        "opciones": [
+            "Respiración",
+            "Fotosíntesis",
+            "Osmosis"
+        ],
+        "respuesta_correcta": "Fotosíntesis"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "opciones": [
+            "Ag",
+            "Au",
+            "Fe"
+        ],
+        "respuesta_correcta": "Au"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto promedio?",
+        "opciones": [
+            "206",
+            "250",
+            "180"
+        ],
+        "respuesta_correcta": "206"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué fuerza nos mantiene pegados al suelo?",
+        "opciones": [
+            "Magnetismo",
+            "Gravedad",
+            "Fricción"
+        ],
+        "respuesta_correcta": "Gravedad"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Quién formuló la teoría de la relatividad?",
+        "opciones": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "respuesta_correcta": "Albert Einstein"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es el animal más rápido del mundo en tierra?",
+        "opciones": [
+            "León",
+            "Guepardo",
+            "Caballo"
+        ],
+        "respuesta_correcta": "Guepardo"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué tipo de sangre es considerada donante universal?",
+        "opciones": [
+            "A Positivo",
+            "O Negativo",
+            "AB Negativo"
+        ],
+        "respuesta_correcta": "O Negativo"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué estudia la botánica?",
+        "opciones": [
+            "Animales",
+            "Plantas",
+            "Rocas"
+        ],
+        "respuesta_correcta": "Plantas"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "opciones": [
+            "Hierro",
+            "Aluminio",
+            "Cobre"
+        ],
+        "respuesta_correcta": "Aluminio"
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué parte de la célula contiene el ADN?",
+        "opciones": [
+            "Mitocondria",
+            "Núcleo",
+            "Citoplasma"
+        ],
+        "respuesta_correcta": "Núcleo"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿A qué temperatura hierve el agua a nivel del mar?",
+        "opciones": [
+            "90°C",
+            "100°C",
+            "110°C"
+        ],
+        "respuesta_correcta": "100°C"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": [
+            "Júpiter",
+            "Saturno",
+            "Neptuno"
+        ],
+        "respuesta_correcta": "Júpiter"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué animal pone el huevo más grande?",
+        "opciones": [
+            "Avestruz",
+            "Cocodrilo",
+            "Águila"
+        ],
+        "respuesta_correcta": "Avestruz"
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué es el H2SO4?",
+        "opciones": [
+            "Agua",
+            "Ácido sulfúrico",
+            "Sal de mesa"
+        ],
+        "respuesta_correcta": "Ácido sulfúrico"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Cómo se llama la capa de gas que rodea la Tierra?",
+        "opciones": [
+            "Hidrosfera",
+            "Atmósfera",
+            "Litosfera"
+        ],
+        "respuesta_correcta": "Atmósfera"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué instrumento se usa para ver objetos muy pequeños?",
+        "opciones": [
+            "Telescopio",
+            "Microscopio",
+            "Periscopio"
+        ],
+        "respuesta_correcta": "Microscopio"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Quién propuso las tres leyes del movimiento?",
+        "opciones": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Copérnico"
+        ],
+        "respuesta_correcta": "Isaac Newton"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuál es el único mamífero capaz de volar?",
+        "opciones": [
+            "Murciélago",
+            "Ardilla voladora",
+            "Pájaro"
+        ],
+        "respuesta_correcta": "Murciélago"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué elemento tiene el número atómico 1?",
+        "opciones": [
+            "Helio",
+            "Hidrógeno",
+            "Litio"
+        ],
+        "respuesta_correcta": "Hidrógeno"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué mide un barómetro?",
+        "opciones": [
+            "Temperatura",
+            "Presión atmosférica",
+            "Humedad"
+        ],
+        "respuesta_correcta": "Presión atmosférica"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuál es la fuente de energía más grande para la Tierra?",
+        "opciones": [
+            "El Viento",
+            "El Sol",
+            "El Carbón"
+        ],
+        "respuesta_correcta": "El Sol"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Qué vitamina produce el cuerpo con la luz solar?",
+        "opciones": [
+            "Vitamina C",
+            "Vitamina D",
+            "Vitamina B12"
+        ],
+        "respuesta_correcta": "Vitamina D"
+    }
+]
